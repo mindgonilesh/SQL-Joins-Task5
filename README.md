@@ -17,7 +17,6 @@ Learn and practice SQL JOINs: INNER, LEFT, RIGHT, FULL.
 - `schema.sql`: Table creation
 - `data.sql`: Sample data insertion
 - `joins_queries.sql`: SQL JOIN queries
-- Screenshot folder (add your Workbench output screenshot here)
 
 ## Author:
 Nilesh Kumar Sharma
